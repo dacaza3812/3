@@ -10,22 +10,22 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Ecommerce Starter Template
+            Tienda online Ameleta
           </Heading>
           <Heading
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Powered by Medusa and Next.js
+            Selecciona la región y compra
           </Heading>
         </span>
         <a
-          href="https://github.com/medusajs/nextjs-starter-medusa"
+          href="https://ameleta.vercel.app/us/store"
           target="_blank"
         >
           <Button variant="secondary">
-            View on GitHub
-            <Github />
+            Visita la tienda
+            
           </Button>
         </a>
       </div>
