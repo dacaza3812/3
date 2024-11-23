@@ -104,8 +104,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="abVfpm_DlAJP8ct97AFF-2" value="diseno de datos de una plataforma de aprendizaje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="60" width="290" height="30" as="geometry" />
+        <mxCell id="abVfpm_DlAJP8ct97AFF-2" value="&lt;h1&gt;&lt;b&gt;Diseno de datos de una plataforma de aprendizaje&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="30" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="abVfpm_DlAJP8ct97AFF-5" value="Material Adjunto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1230" y="120" width="140" height="120" as="geometry" />
