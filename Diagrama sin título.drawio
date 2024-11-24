@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p33vpN1_zn9hiMmlmU8_-1" value="Curso" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="815" y="120" width="140" height="360" as="geometry" />
+          <mxGeometry x="815" y="120" width="140" height="390" as="geometry" />
         </mxCell>
         <mxCell id="p33vpN1_zn9hiMmlmU8_-2" value="id: ID" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="p33vpN1_zn9hiMmlmU8_-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="abVfpm_DlAJP8ct97AFF-32" value="progreso: Progreso" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="p33vpN1_zn9hiMmlmU8_-1" vertex="1">
           <mxGeometry y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrJkHypobNCPKlKONka_-153" value="materia: Materia" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="p33vpN1_zn9hiMmlmU8_-1">
+          <mxGeometry y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p33vpN1_zn9hiMmlmU8_-9" value="Clase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1175" y="120" width="155" height="210" as="geometry" />
