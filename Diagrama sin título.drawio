@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GrJkHypobNCPKlKONka_-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-20" target="GrJkHypobNCPKlKONka_-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1085" y="385" />
+              <mxPoint x="1090" y="385" />
+              <mxPoint x="1090" y="460" />
+              <mxPoint x="1134" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrJkHypobNCPKlKONka_-141" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GrJkHypobNCPKlKONka_-140">
+          <mxGeometry x="0.2325" y="-4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GrJkHypobNCPKlKONka_-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-110" target="p33vpN1_zn9hiMmlmU8_-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -306,25 +321,14 @@
         <mxCell id="GrJkHypobNCPKlKONka_-22" value="estadísticas: Estadística" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrJkHypobNCPKlKONka_-23" value="id_curso: id_curso" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
+        <mxCell id="GrJkHypobNCPKlKONka_-23" value="id_curso: id_curso" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GrJkHypobNCPKlKONka_-24" value="fecha_inscripcion: datetime" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GrJkHypobNCPKlKONka_-25" value="estado: ENUM" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
+        <mxCell id="GrJkHypobNCPKlKONka_-25" value="estado: ENUM" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GrJkHypobNCPKlKONka_-20">
           <mxGeometry y="150" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GrJkHypobNCPKlKONka_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.038;entryY=0.6;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;entryPerimeter=0;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-22" target="GrJkHypobNCPKlKONka_-103">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="985" y="185" />
-              <mxPoint x="985" y="470" />
-              <mxPoint x="1220" y="470" />
-              <mxPoint x="1220" y="500" />
-              <mxPoint x="1215" y="500" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="GrJkHypobNCPKlKONka_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-16" target="p33vpN1_zn9hiMmlmU8_-2">
           <mxGeometry relative="1" as="geometry" />
@@ -584,13 +588,13 @@
             <mxRectangle width="184" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GrJkHypobNCPKlKONka_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-103">
+        <mxCell id="GrJkHypobNCPKlKONka_-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-103" target="GrJkHypobNCPKlKONka_-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrJkHypobNCPKlKONka_-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GrJkHypobNCPKlKONka_-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrJkHypobNCPKlKONka_-103" target="GrJkHypobNCPKlKONka_-128">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrJkHypobNCPKlKONka_-103" value="Acciones Permitidas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="1080" y="480" width="130" height="30" as="geometry" />
